@@ -1,4 +1,4 @@
-# DataScienceGuidedCapstone
+# Data Science Guided Capstone
 
 Hello students!
 Welcome to the Data Science Guided Capstone! 
